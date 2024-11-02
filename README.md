@@ -83,5 +83,3 @@ terraform destroy
 - You may adjust the MediaConvert job template according to your specific video format and quality requirements.
 
 ---
-
-This README should guide users through setting up the serverless video transcoding system using the provided Terraform configuration. Let me know if you'd like to add any specific details!
